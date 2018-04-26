@@ -6,12 +6,10 @@
     "type": "project",
     "require": {
         "php": ">=5.6.4",
-        "another-vendor/package": "1.*",
         "laravel/lumen-framework": "5.5.*",
         "vlucas/phpdotenv": "~2.2",
         "league/fractal": "^0.17.0",
-        "barryvdh/laravel-cors": "^0.11.0",
-        "vendor/olahubadminapp": "dev-master"
+        "barryvdh/laravel-cors": "^0.11.0"
     },
     "repositories": [
         {
