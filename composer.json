@@ -18,7 +18,7 @@
                 "name": "eslamesmail",
                 "version": "dev-master",
                 "source": {
-                    "url": "https://eslamesmail18@bitbucket.org/olahubteam/olahubadminapp.git",
+                    "url": "https://github.com/eslam-esmail/testpackage.git",
                     "type": "git",
                     "reference": "origin/master"
                 }
