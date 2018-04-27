@@ -33,7 +33,7 @@
     "autoload": {
         "psr-4": {
             "Barryvdh\\Cors\\": "app/",
-            "OlaHub\\Providers\\":"app/"
+            "OlaHub\\Providers\\":"app/Providers/"
         }
     },
     "autoload-dev": {
