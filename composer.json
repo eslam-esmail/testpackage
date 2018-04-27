@@ -45,6 +45,9 @@
         ]
     },
     "extra": {
+      "branch-alias": {
+        "dev-master": "0.11-dev"
+      },
         "laravel": {
             "providers": [
                 "Barryvdh\\Cors\\ServiceProvider",
