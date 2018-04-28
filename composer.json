@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "OlaHub\\Providers\\":"src/"
+            "OlaHub\\Providers\\":"src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "OlaHub\\Providers\\Tests\\": "tests/"
+            "OlaHub\\Providers\\Tests\\": "tests"
         }
     },
     "extra": {
