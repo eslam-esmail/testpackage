@@ -32,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OlaHub\\Providers\\":"app/Providers/"
+            "OlaHub\\Providers\\":"src/"
         }
     },
     "autoload-dev": {
