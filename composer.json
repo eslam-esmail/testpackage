@@ -46,8 +46,7 @@
         },
         "laravel": {
             "providers": [
-                "OlaHub\\Providers\\ObserveServiceProvider",
-                "OlaHub\\Providers\\ValidationServiceProvider"
+                "OlaHub\\Providers\\ObserveServiceProvider"
             ]
         }
     },
