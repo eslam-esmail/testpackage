@@ -2,10 +2,10 @@
 
 namespace OlaHub\Providers;
 
-use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 //use OlaHub\Models\OlahubAdminModel;
 
-class BackageServiceProvider extends ServiceProvider
+class BackageServiceProvider extends BaseServiceProvider
 {
     
     public function boot(){

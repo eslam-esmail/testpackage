@@ -33,15 +33,10 @@
     "autoload": {
         "classmap": [
             "src"
-        ],
-        "psr-4": {
-            "OlaHub\\Providers\\": "src/"
-        }
+        ]
     },
     "autoload-dev": {
-        "psr-4": {
-            "OlaHub\\Providers\\Tests\\": "tests/"
-        }
+        
     },
     "extra": {
         "branch-alias": {
