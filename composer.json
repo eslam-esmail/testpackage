@@ -31,8 +31,11 @@
         "mockery/mockery": "~0.9"
     },
     "autoload": {
+        "classmap": [
+            "src"
+        ],
         "psr-4": {
-            "OlaHub\\Providers\\": "src/Providers/"
+            "OlaHub\\Providers\\": "src/"
         }
     },
     "autoload-dev": {
@@ -46,8 +49,7 @@
         },
         "laravel": {
             "providers": [
-                "OlaHub\\Providers\\ObserveServiceProvider",
-                "OlaHub\\Providers\\ValidationServiceProvider"
+                "OlaHub\\Providers\\BackageServiceProvider"
             ]
         }
     },
